@@ -1,0 +1,139 @@
+concept,concept_type,domain,name
+geo,entity_domain,,Geo
+global,entity_set,geo,Global
+region,entity_set,geo,World in 6 regions
+country,entity_set,geo,Country
+name,string,,Name
+domain,string,,Domain
+whocode,string,,WHO Code
+iso3,string,,ISO 3
+year,time,,Year
+nnd,measure,,Deaths Numbers - total neonatal deaths
+pnd,measure,,Deaths Numbers - total postneonatal deaths
+livebirths,measure,,Deaths Numbers - live births
+neo2,measure,,Deaths Numbers - neonatal period - HIV/AIDS
+neo3,measure,,Deaths Numbers - neonatal period - Diarrhoeal diseases
+neo5,measure,,Deaths Numbers - neonatal period - Tetanus
+neo6,measure,,Deaths Numbers - neonatal period - Measles
+neo7,measure,,Deaths Numbers - neonatal period - Meningitis/encephalitis
+neo8,measure,,Deaths Numbers - neonatal period - Malaria
+neo9,measure,,Deaths Numbers - neonatal period - Acute respiratory infections
+neo10,measure,,Deaths Numbers - neonatal period - Prematurity
+neo11,measure,,Deaths Numbers - neonatal period - Birth asphyxia and birth trauma
+neo12,measure,,Deaths Numbers - neonatal period - Sepsis and other infectious conditions of the newborn
+neo13,measure,,Deaths Numbers - neonatal period - Other Group 1
+neo15,measure,,Deaths Numbers - neonatal period - Congenital anomalies
+neo16,measure,,Deaths Numbers - neonatal period - Other noncommunicable diseases
+neo17,measure,,Deaths Numbers - neonatal period - Injuries
+post2,measure,,Deaths Numbers - postneonatal period - HIV/AIDS
+post3,measure,,Deaths Numbers - postneonatal period - Diarrhoeal diseases
+post5,measure,,Deaths Numbers - postneonatal period - Tetanus
+post6,measure,,Deaths Numbers - postneonatal period - Measles
+post7,measure,,Deaths Numbers - postneonatal period - Meningitis/encephalitis
+post8,measure,,Deaths Numbers - postneonatal period - Malaria
+post9,measure,,Deaths Numbers - postneonatal period - Acute respiratory infections
+post10,measure,,Deaths Numbers - postneonatal period - Prematurity
+post11,measure,,Deaths Numbers - postneonatal period - Birth asphyxia and birth trauma
+post12,measure,,Deaths Numbers - postneonatal period - Sepsis and other infectious conditions of the newborn
+post13,measure,,Deaths Numbers - postneonatal period - Other Group 1
+post15,measure,,Deaths Numbers - postneonatal period - Congenital anomalies
+post16,measure,,Deaths Numbers - postneonatal period - Other noncommunicable diseases
+post17,measure,,Deaths Numbers - postneonatal period - Injuries
+ufive2,measure,,"Deaths Numbers - under five (i.e., neo+post) - HIV/AIDS"
+ufive3,measure,,"Deaths Numbers - under five (i.e., neo+post) - Diarrhoeal diseases"
+ufive5,measure,,"Deaths Numbers - under five (i.e., neo+post) - Tetanus"
+ufive6,measure,,"Deaths Numbers - under five (i.e., neo+post) - Measles"
+ufive7,measure,,"Deaths Numbers - under five (i.e., neo+post) - Meningitis/encephalitis"
+ufive8,measure,,"Deaths Numbers - under five (i.e., neo+post) - Malaria"
+ufive9,measure,,"Deaths Numbers - under five (i.e., neo+post) - Acute respiratory infections"
+ufive10,measure,,"Deaths Numbers - under five (i.e., neo+post) - Prematurity"
+ufive11,measure,,"Deaths Numbers - under five (i.e., neo+post) - Birth asphyxia and birth trauma"
+ufive12,measure,,"Deaths Numbers - under five (i.e., neo+post) - Sepsis and other infectious conditions of the newborn"
+ufive13,measure,,"Deaths Numbers - under five (i.e., neo+post) - Other Group 1"
+ufive15,measure,,"Deaths Numbers - under five (i.e., neo+post) - Congenital anomalies"
+ufive16,measure,,"Deaths Numbers - under five (i.e., neo+post) - Other noncommunicable diseases"
+ufive17,measure,,"Deaths Numbers - under five (i.e., neo+post) - Injuries"
+rneo2,measure,,Deaths Rate Per 1000 live Births - neonatal period - HIV/AIDS
+rneo3,measure,,Deaths Rate Per 1000 live Births - neonatal period - Diarrhoeal diseases
+rneo5,measure,,Deaths Rate Per 1000 live Births - neonatal period - Tetanus
+rneo6,measure,,Deaths Rate Per 1000 live Births - neonatal period - Measles
+rneo7,measure,,Deaths Rate Per 1000 live Births - neonatal period - Meningitis/encephalitis
+rneo8,measure,,Deaths Rate Per 1000 live Births - neonatal period - Malaria
+rneo9,measure,,Deaths Rate Per 1000 live Births - neonatal period - Acute respiratory infections
+rneo10,measure,,Deaths Rate Per 1000 live Births - neonatal period - Prematurity
+rneo11,measure,,Deaths Rate Per 1000 live Births - neonatal period - Birth asphyxia and birth trauma
+rneo12,measure,,Deaths Rate Per 1000 live Births - neonatal period - Sepsis and other infectious conditions of the newborn
+rneo13,measure,,Deaths Rate Per 1000 live Births - neonatal period - Other Group 1
+rneo15,measure,,Deaths Rate Per 1000 live Births - neonatal period - Congenital anomalies
+rneo16,measure,,Deaths Rate Per 1000 live Births - neonatal period - Other noncommunicable diseases
+rneo17,measure,,Deaths Rate Per 1000 live Births - neonatal period - Injuries
+rpost2,measure,,Deaths Rate Per 1000 live Births - postneonatal period - HIV/AIDS
+rpost3,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Diarrhoeal diseases
+rpost5,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Tetanus
+rpost6,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Measles
+rpost7,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Meningitis/encephalitis
+rpost8,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Malaria
+rpost9,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Acute respiratory infections
+rpost10,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Prematurity
+rpost11,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Birth asphyxia and birth trauma
+rpost12,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Sepsis and other infectious conditions of the newborn
+rpost13,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Other Group 1
+rpost15,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Congenital anomalies
+rpost16,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Other noncommunicable diseases
+rpost17,measure,,Deaths Rate Per 1000 live Births - postneonatal period - Injuries
+rufive2,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - HIV/AIDS"
+rufive3,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Diarrhoeal diseases"
+rufive5,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Tetanus"
+rufive6,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Measles"
+rufive7,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Meningitis/encephalitis"
+rufive8,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Malaria"
+rufive9,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Acute respiratory infections"
+rufive10,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Prematurity"
+rufive11,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Birth asphyxia and birth trauma"
+rufive12,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Sepsis and other infectious conditions of the newborn"
+rufive13,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Other Group 1"
+rufive15,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Congenital anomalies"
+rufive16,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Other noncommunicable diseases"
+rufive17,measure,,"Deaths Rate Per 1000 live Births - under five (i.e., neo+post) - Injuries"
+fneo2,measure,,Deaths Percentage - neonatal period - HIV/AIDS
+fneo3,measure,,Deaths Percentage - neonatal period - Diarrhoeal diseases
+fneo5,measure,,Deaths Percentage - neonatal period - Tetanus
+fneo6,measure,,Deaths Percentage - neonatal period - Measles
+fneo7,measure,,Deaths Percentage - neonatal period - Meningitis/encephalitis
+fneo8,measure,,Deaths Percentage - neonatal period - Malaria
+fneo9,measure,,Deaths Percentage - neonatal period - Acute respiratory infections
+fneo10,measure,,Deaths Percentage - neonatal period - Prematurity
+fneo11,measure,,Deaths Percentage - neonatal period - Birth asphyxia and birth trauma
+fneo12,measure,,Deaths Percentage - neonatal period - Sepsis and other infectious conditions of the newborn
+fneo13,measure,,Deaths Percentage - neonatal period - Other Group 1
+fneo15,measure,,Deaths Percentage - neonatal period - Congenital anomalies
+fneo16,measure,,Deaths Percentage - neonatal period - Other noncommunicable diseases
+fneo17,measure,,Deaths Percentage - neonatal period - Injuries
+fpost2,measure,,Deaths Percentage - postneonatal period - HIV/AIDS
+fpost3,measure,,Deaths Percentage - postneonatal period - Diarrhoeal diseases
+fpost5,measure,,Deaths Percentage - postneonatal period - Tetanus
+fpost6,measure,,Deaths Percentage - postneonatal period - Measles
+fpost7,measure,,Deaths Percentage - postneonatal period - Meningitis/encephalitis
+fpost8,measure,,Deaths Percentage - postneonatal period - Malaria
+fpost9,measure,,Deaths Percentage - postneonatal period - Acute respiratory infections
+fpost10,measure,,Deaths Percentage - postneonatal period - Prematurity
+fpost11,measure,,Deaths Percentage - postneonatal period - Birth asphyxia and birth trauma
+fpost12,measure,,Deaths Percentage - postneonatal period - Sepsis and other infectious conditions of the newborn
+fpost13,measure,,Deaths Percentage - postneonatal period - Other Group 1
+fpost15,measure,,Deaths Percentage - postneonatal period - Congenital anomalies
+fpost16,measure,,Deaths Percentage - postneonatal period - Other noncommunicable diseases
+fpost17,measure,,Deaths Percentage - postneonatal period - Injuries
+fufive2,measure,,"Deaths Percentage - under five (i.e., neo+post) - HIV/AIDS"
+fufive3,measure,,"Deaths Percentage - under five (i.e., neo+post) - Diarrhoeal diseases"
+fufive5,measure,,"Deaths Percentage - under five (i.e., neo+post) - Tetanus"
+fufive6,measure,,"Deaths Percentage - under five (i.e., neo+post) - Measles"
+fufive7,measure,,"Deaths Percentage - under five (i.e., neo+post) - Meningitis/encephalitis"
+fufive8,measure,,"Deaths Percentage - under five (i.e., neo+post) - Malaria"
+fufive9,measure,,"Deaths Percentage - under five (i.e., neo+post) - Acute respiratory infections"
+fufive10,measure,,"Deaths Percentage - under five (i.e., neo+post) - Prematurity"
+fufive11,measure,,"Deaths Percentage - under five (i.e., neo+post) - Birth asphyxia and birth trauma"
+fufive12,measure,,"Deaths Percentage - under five (i.e., neo+post) - Sepsis and other infectious conditions of the newborn"
+fufive13,measure,,"Deaths Percentage - under five (i.e., neo+post) - Other Group 1"
+fufive15,measure,,"Deaths Percentage - under five (i.e., neo+post) - Congenital anomalies"
+fufive16,measure,,"Deaths Percentage - under five (i.e., neo+post) - Other noncommunicable diseases"
+fufive17,measure,,"Deaths Percentage - under five (i.e., neo+post) - Injuries"

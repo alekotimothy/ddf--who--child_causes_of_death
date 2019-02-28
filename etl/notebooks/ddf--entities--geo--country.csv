@@ -1,0 +1,195 @@
+country,whoname,iso3,whocode,region,is--country
+afg,Afghanistan,AFG,3010,5_emr,TRUE
+ago,Angola,AGO,1020,1_afr,TRUE
+alb,Albania,ALB,4005,4_eur,TRUE
+and,Andorra,AND,4008,4_eur,TRUE
+are,United Arab Emirates,ARE,3405,5_emr,TRUE
+arg,Argentina,ARG,2020,2_amr,TRUE
+arm,Armenia,ARM,4007,4_eur,TRUE
+atg,Antigua and Barbuda,ATG,2010,2_amr,TRUE
+aus,Australia,AUS,5020,6_wpr,TRUE
+aut,Austria,AUT,4010,4_eur,TRUE
+aze,Azerbaijan,AZE,4012,4_eur,TRUE
+bdi,Burundi,BDI,1040,1_afr,TRUE
+bel,Belgium,BEL,4020,4_eur,TRUE
+ben,Benin,BEN,1025,1_afr,TRUE
+bfa,Burkina Faso,BFA,1035,1_afr,TRUE
+bgd,Bangladesh,BGD,3025,3_sear,TRUE
+bgr,Bulgaria,BGR,4030,4_eur,TRUE
+bhr,Bahrain,BHR,3020,5_emr,TRUE
+bhs,Bahamas,BHS,2030,2_amr,TRUE
+bih,Bosnia and Herzegovina,BIH,4025,4_eur,TRUE
+blr,Belarus,BLR,4018,4_eur,TRUE
+blz,Belize,BLZ,2045,2_amr,TRUE
+bol,Bolivia (Plurinational State of),BOL,2060,2_amr,TRUE
+bra,Brazil,BRA,2070,2_amr,TRUE
+brb,Barbados,BRB,2040,2_amr,TRUE
+brn,Brunei Darussalam,BRN,3030,6_wpr,TRUE
+btn,Bhutan,BTN,3027,3_sear,TRUE
+bwa,Botswana,BWA,1030,1_afr,TRUE
+caf,Central African Republic,CAF,1070,1_afr,TRUE
+can,Canada,CAN,2090,2_amr,TRUE
+che,Switzerland,CHE,4300,4_eur,TRUE
+chl,Chile,CHL,2120,2_amr,TRUE
+chn,China,CHN,3068,6_wpr,TRUE
+civ,Cote d'Ivoire,CIV,1115,1_afr,TRUE
+cmr,Cameroon,CMR,1045,1_afr,TRUE
+cod,Democratic Republic of the Congo,COD,1555,1_afr,TRUE
+cog,Congo,COG,1100,1_afr,TRUE
+cok,Cook Islands,COK,5060,6_wpr,TRUE
+col,Colombia,COL,2130,2_amr,TRUE
+com,Comoros,COM,1090,1_afr,TRUE
+cpv,Cabo Verde,CPV,1060,1_afr,TRUE
+cri,Costa Rica,CRI,2140,2_amr,TRUE
+cub,Cuba,CUB,2150,2_amr,TRUE
+cyp,Cyprus,CYP,3080,4_eur,TRUE
+cze,Czechia,CZE,4045,4_eur,TRUE
+deu,Germany,DEU,4085,4_eur,TRUE
+dji,Djibouti,DJI,1120,5_emr,TRUE
+dma,Dominica,DMA,2160,2_amr,TRUE
+dnk,Denmark,DNK,4050,4_eur,TRUE
+dom,Dominican Republic,DOM,2170,2_amr,TRUE
+dza,Algeria,DZA,1010,1_afr,TRUE
+ecu,Ecuador,ECU,2180,2_amr,TRUE
+egy,Egypt,EGY,1125,5_emr,TRUE
+eri,Eritrea,ERI,1135,1_afr,TRUE
+esp,Spain,ESP,4280,4_eur,TRUE
+est,Estonia,EST,4055,4_eur,TRUE
+eth,Ethiopia,ETH,1140,1_afr,TRUE
+fin,Finland,FIN,4070,4_eur,TRUE
+fji,Fiji,FJI,5070,6_wpr,TRUE
+fra,France,FRA,4080,4_eur,TRUE
+fsm,Micronesia (Federated States of),FSM,5108,6_wpr,TRUE
+gab,Gabon,GAB,1160,1_afr,TRUE
+gbr,United Kingdom,GBR,4308,4_eur,TRUE
+geo,Georgia,GEO,4084,4_eur,TRUE
+gha,Ghana,GHA,1180,1_afr,TRUE
+gin,Guinea,GIN,1190,1_afr,TRUE
+gmb,Gambia,GMB,1170,1_afr,TRUE
+gnb,Guinea-Bissau,GNB,1192,1_afr,TRUE
+gnq,Equatorial Guinea,GNQ,1130,1_afr,TRUE
+grc,Greece,GRC,4140,4_eur,TRUE
+grd,Grenada,GRD,2230,2_amr,TRUE
+gtm,Guatemala,GTM,2250,2_amr,TRUE
+guy,Guyana,GUY,2260,2_amr,TRUE
+hnd,Honduras,HND,2280,2_amr,TRUE
+hrv,Croatia,HRV,4038,4_eur,TRUE
+hti,Haiti,HTI,2270,2_amr,TRUE
+hun,Hungary,HUN,4150,4_eur,TRUE
+idn,Indonesia,IDN,3110,3_sear,TRUE
+ind,India,IND,3100,3_sear,TRUE
+irl,Ireland,IRL,4170,4_eur,TRUE
+irn,Iran (Islamic Republic of),IRN,3130,5_emr,TRUE
+irq,Iraq,IRQ,3140,5_emr,TRUE
+isl,Iceland,ISL,4160,4_eur,TRUE
+isr,Israel,ISR,3150,4_eur,TRUE
+ita,Italy,ITA,4180,4_eur,TRUE
+jam,Jamaica,JAM,2290,2_amr,TRUE
+jor,Jordan,JOR,3170,5_emr,TRUE
+jpn,Japan,JPN,3160,6_wpr,TRUE
+kaz,Kazakhstan,KAZ,4182,4_eur,TRUE
+ken,Kenya,KEN,1220,1_afr,TRUE
+kgz,Kyrgyzstan,KGZ,4184,4_eur,TRUE
+khm,Cambodia,KHM,3050,6_wpr,TRUE
+kir,Kiribati,KIR,5105,6_wpr,TRUE
+kna,Saint Kitts and Nevis,KNA,2385,2_amr,TRUE
+kor,Republic of Korea,KOR,3325,6_wpr,TRUE
+kwt,Kuwait,KWT,3190,5_emr,TRUE
+lao,Lao People's Democratic Republic,LAO,3200,6_wpr,TRUE
+lbn,Lebanon,LBN,3210,5_emr,TRUE
+lbr,Liberia,LBR,1240,1_afr,TRUE
+lby,Libya,LBY,1250,5_emr,TRUE
+lca,Saint Lucia,LCA,2400,2_amr,TRUE
+lka,Sri Lanka,LKA,3365,3_sear,TRUE
+lso,Lesotho,LSO,1230,1_afr,TRUE
+ltu,Lithuania,LTU,4188,4_eur,TRUE
+lux,Luxembourg,LUX,4190,4_eur,TRUE
+lva,Latvia,LVA,4186,4_eur,TRUE
+mar,Morocco,MAR,1310,5_emr,TRUE
+mco,Monaco,MCO,4205,4_eur,TRUE
+mda,Republic of Moldova,MDA,4260,4_eur,TRUE
+mdg,Madagascar,MDG,1260,1_afr,TRUE
+mdv,Maldives,MDV,3255,3_sear,TRUE
+mex,Mexico,MEX,2310,2_amr,TRUE
+mhl,Marshall Islands,MHL,5107,6_wpr,TRUE
+mkd,The former Yugoslav Republic of Macedonia,MKD,4195,4_eur,TRUE
+mli,Mali,MLI,1280,1_afr,TRUE
+mlt,Malta,MLT,4200,4_eur,TRUE
+mmr,Myanmar,MMR,3270,3_sear,TRUE
+mne,Montenegro,MNE,4207,4_eur,TRUE
+mng,Mongolia,MNG,3260,6_wpr,TRUE
+moz,Mozambique,MOZ,1320,1_afr,TRUE
+mrt,Mauritania,MRT,1290,1_afr,TRUE
+mus,Mauritius,MUS,1300,1_afr,TRUE
+mwi,Malawi,MWI,1270,1_afr,TRUE
+mys,Malaysia,MYS,3236,6_wpr,TRUE
+nam,Namibia,NAM,1325,1_afr,TRUE
+ner,Niger,NER,1330,1_afr,TRUE
+nga,Nigeria,NGA,1340,1_afr,TRUE
+nic,Nicaragua,NIC,2340,2_amr,TRUE
+niu,Niue,NIU,5170,6_wpr,TRUE
+nld,Netherlands,NLD,4210,4_eur,TRUE
+nor,Norway,NOR,4220,4_eur,TRUE
+npl,Nepal,NPL,3280,3_sear,TRUE
+nru,Nauru,NRU,5110,6_wpr,TRUE
+nzl,New Zealand,NZL,5150,6_wpr,TRUE
+omn,Oman,OMN,3285,5_emr,TRUE
+pak,Pakistan,PAK,3290,5_emr,TRUE
+pan,Panama,PAN,2350,2_amr,TRUE
+per,Peru,PER,2370,2_amr,TRUE
+phl,Philippines,PHL,3300,6_wpr,TRUE
+plw,Palau,PLW,5180,6_wpr,TRUE
+png,Papua New Guinea,PNG,5195,6_wpr,TRUE
+pol,Poland,POL,4230,4_eur,TRUE
+prk,Democratic People's Republic of Korea,PRK,3083,3_sear,TRUE
+prt,Portugal,PRT,4240,4_eur,TRUE
+pry,Paraguay,PRY,2360,2_amr,TRUE
+qat,Qatar,QAT,3320,5_emr,TRUE
+rou,Romania,ROU,4270,4_eur,TRUE
+rus,Russian Federation,RUS,4272,4_eur,TRUE
+rwa,Rwanda,RWA,1370,1_afr,TRUE
+sau,Saudi Arabia,SAU,3340,5_emr,TRUE
+sdn,Sudan,SDN,1465,5_emr,TRUE
+sen,Senegal,SEN,1390,1_afr,TRUE
+sgp,Singapore,SGP,3350,6_wpr,TRUE
+slb,Solomon Islands,SLB,5198,6_wpr,TRUE
+sle,Sierra Leone,SLE,1410,1_afr,TRUE
+slv,El Salvador,SLV,2190,2_amr,TRUE
+smr,San Marino,SMR,4275,4_eur,TRUE
+som,Somalia,SOM,1420,5_emr,TRUE
+srb,Serbia,SRB,4273,4_eur,TRUE
+ssd,South Sudan,SSD,1460,1_afr,TRUE
+stp,Sao Tome and Principe,STP,1385,1_afr,TRUE
+sur,Suriname,SUR,2430,2_amr,TRUE
+svk,Slovakia,SVK,4274,4_eur,TRUE
+svn,Slovenia,SVN,4276,4_eur,TRUE
+swe,Sweden,SWE,4290,4_eur,TRUE
+swz,Swaziland,SWZ,1480,1_afr,TRUE
+syc,Seychelles,SYC,1400,1_afr,TRUE
+syr,Syrian Arab Republic,SYR,3370,5_emr,TRUE
+tcd,Chad,TCD,1080,1_afr,TRUE
+tgo,Togo,TGO,1510,1_afr,TRUE
+tha,Thailand,THA,3380,3_sear,TRUE
+tjk,Tajikistan,TJK,4301,4_eur,TRUE
+tkm,Turkmenistan,TKM,4302,4_eur,TRUE
+tls,Timor-Leste,TLS,3087,3_sear,TRUE
+ton,Tonga,TON,5200,6_wpr,TRUE
+tto,Trinidad and Tobago,TTO,2440,2_amr,TRUE
+tun,Tunisia,TUN,1520,5_emr,TRUE
+tur,Turkey,TUR,3400,4_eur,TRUE
+tuv,Tuvalu,TUV,5205,6_wpr,TRUE
+tza,United Republic of Tanzania,TZA,1546,1_afr,TRUE
+uga,Uganda,UGA,1530,1_afr,TRUE
+ukr,Ukraine,UKR,4303,4_eur,TRUE
+ury,Uruguay,URY,2460,2_amr,TRUE
+usa,United States of America,USA,2450,2_amr,TRUE
+uzb,Uzbekistan,UZB,4335,4_eur,TRUE
+vct,Saint Vincent and the Grenadines,VCT,2420,2_amr,TRUE
+ven,Venezuela (Bolivarian Republic of),VEN,2470,2_amr,TRUE
+vnm,Viet Nam,VNM,3408,6_wpr,TRUE
+vut,Vanuatu,VUT,5207,6_wpr,TRUE
+wsm,Samoa,WSM,5197,6_wpr,TRUE
+yem,Yemen,YEM,3420,5_emr,TRUE
+zaf,South Africa,ZAF,1430,1_afr,TRUE
+zmb,Zambia,ZMB,1560,1_afr,TRUE
+zwe,Zimbabwe,ZWE,1570,1_afr,TRUE
