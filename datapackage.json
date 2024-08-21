@@ -4,11 +4,11 @@
         "name": "English",
         "id": "en"
     },
-    "author": "Gapminder",
-    "created": "2019-03-03T06:27:12.800088+00:00",
-    "description": "WHO CHILD CAUSES OF DEATH Dataset",
-    "license": "CC-BY-4.0",
     "title": "WHO CHILD CAUSES OF DEATH",
+    "description": "WHO CHILD CAUSES OF DEATH Dataset",
+    "author": "Gapminder",
+    "license": "CC-BY-4.0",
+    "created": "2024-08-21T02:58:39.273914+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -30,7 +30,9 @@
                         "name": "domain"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -444,7 +446,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "age_group"
+                "primaryKey": [
+                    "age_group"
+                ]
             }
         },
         {
@@ -459,7 +463,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "cause"
+                "primaryKey": [
+                    "cause"
+                ]
             }
         },
         {
@@ -486,7 +492,9 @@
                         "name": "is--country"
                     }
                 ],
-                "primaryKey": "country"
+                "primaryKey": [
+                    "country"
+                ]
             }
         },
         {
@@ -504,7 +512,9 @@
                         "name": "is--global"
                     }
                 ],
-                "primaryKey": "global"
+                "primaryKey": [
+                    "global"
+                ]
             }
         },
         {
@@ -522,7 +532,9 @@
                         "name": "is--region"
                     }
                 ],
-                "primaryKey": "region"
+                "primaryKey": [
+                    "region"
+                ]
             }
         }
     ],
